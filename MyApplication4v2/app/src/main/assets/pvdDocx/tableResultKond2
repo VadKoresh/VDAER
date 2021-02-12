@@ -1,0 +1,299 @@
+            <w:tr w:rsidR="009A78B5" w:rsidRPr="00794F14" w14:paraId="57000990"
+              w14:textId="77777777" w:rsidTr="003E4803">
+              <w:trPr>
+                <w:cantSplit/>
+              </w:trPr>
+              <w:tc>
+                <w:tcPr>
+                  <w:tcW w:w="959" w:type="dxa"/>
+                  <w:vAlign w:val="center"/>
+                </w:tcPr>
+                <w:p w14:paraId="0CD40FD9" w14:textId="77777777" w:rsidR="009A78B5"
+                  w:rsidRDefault="009A78B5" w:rsidP="009A78B5">
+                  <w:pPr>
+                    <w:jc w:val="center"/>
+                    <w:rPr>
+                      <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"
+                        w:cs="Times New Roman"/>
+                      <w:sz w:val="20"/>
+                      <w:szCs w:val="20"/>
+                    </w:rPr>
+                  </w:pPr>
+                  <w:r>
+                    <w:rPr>
+                      <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"
+                        w:cs="Times New Roman"/>
+                      <w:sz w:val="20"/>
+                      <w:szCs w:val="20"/>
+                    </w:rPr>
+                    <w:t>Спираль</w:t>
+                  </w:r>
+                </w:p>
+                <w:p w14:paraId="058C3A97" w14:textId="3E70BA5E" w:rsidR="009A78B5"
+                  w:rsidRDefault="009A78B5" w:rsidP="009A78B5">
+                  <w:pPr>
+                    <w:contextualSpacing/>
+                    <w:jc w:val="center"/>
+                    <w:rPr>
+                      <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"
+                        w:cs="Times New Roman"/>
+                      <w:sz w:val="20"/>
+                      <w:szCs w:val="20"/>
+                    </w:rPr>
+                  </w:pPr>
+                  <w:r>
+                    <w:rPr>
+                      <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"
+                        w:cs="Times New Roman"/>
+                      <w:sz w:val="20"/>
+                      <w:szCs w:val="20"/>
+                    </w:rPr>
+                    <w:t>№Уха</w:t>
+                  </w:r>
+                </w:p>
+              </w:tc>
+              <w:tc>
+                <w:tcPr>
+                  <w:tcW w:w="1831" w:type="dxa"/>
+                  <w:vAlign w:val="center"/>
+                </w:tcPr>
+                <w:p w14:paraId="6FB07397" w14:textId="05AA8D61" w:rsidR="009A78B5"
+                  w:rsidRDefault="009A78B5" w:rsidP="009A78B5">
+                  <w:pPr>
+                    <w:contextualSpacing/>
+                    <w:jc w:val="center"/>
+                    <w:rPr>
+                      <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"
+                        w:cs="Times New Roman"/>
+                      <w:b/>
+                      <w:bCs/>
+                      <w:sz w:val="20"/>
+                      <w:szCs w:val="20"/>
+                    </w:rPr>
+                  </w:pPr>
+                  <w:r w:rsidRPr="00021A5D">
+                    <w:rPr>
+                      <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"
+                        w:cs="Times New Roman"/>
+                      <w:sz w:val="20"/>
+                      <w:szCs w:val="20"/>
+                    </w:rPr>
+                    <w:t>Зона конденсации пара</w:t>
+                  </w:r>
+                </w:p>
+              </w:tc>
+              <w:tc>
+                <w:tcPr>
+                  <w:tcW w:w="1358" w:type="dxa"/>
+                  <w:vAlign w:val="center"/>
+                </w:tcPr>
+                <w:p w14:paraId="7AFE84EC" w14:textId="77777777" w:rsidR="009A78B5"
+                  w:rsidRPr="00021A5D" w:rsidRDefault="009A78B5" w:rsidP="009A78B5">
+                  <w:pPr>
+                    <w:jc w:val="center"/>
+                    <w:rPr>
+                      <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"
+                        w:cs="Times New Roman"/>
+                      <w:bCs/>
+                      <w:sz w:val="20"/>
+                      <w:szCs w:val="20"/>
+                    </w:rPr>
+                  </w:pPr>
+                  <w:r w:rsidRPr="00021A5D">
+                    <w:rPr>
+                      <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"
+                        w:cs="Times New Roman"/>
+                      <w:bCs/>
+                      <w:sz w:val="20"/>
+                      <w:szCs w:val="20"/>
+                      <w:lang w:val="en-US"/>
+                    </w:rPr>
+                    <w:t>S=</w:t>
+                  </w:r>
+                  <w:r w:rsidRPr="00021A5D">
+                    <w:rPr>
+                      <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"
+                        w:cs="Times New Roman"/>
+                      <w:bCs/>
+                      <w:sz w:val="20"/>
+                      <w:szCs w:val="20"/>
+                    </w:rPr>
+                    <w:t>4мм</w:t>
+                  </w:r>
+                </w:p>
+                <w:p w14:paraId="5F4F65A9" w14:textId="113E44E7" w:rsidR="009A78B5"
+                  w:rsidRPr="00706FE3" w:rsidRDefault="009A78B5" w:rsidP="009A78B5">
+                  <w:pPr>
+                    <w:jc w:val="center"/>
+                    <w:rPr>
+                      <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"
+                        w:cs="Times New Roman"/>
+                      <w:b/>
+                      <w:bCs/>
+                      <w:sz w:val="20"/>
+                      <w:szCs w:val="20"/>
+                    </w:rPr>
+                  </w:pPr>
+                  <w:r w:rsidRPr="00021A5D">
+                    <w:rPr>
+                      <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"
+                        w:cs="Times New Roman"/>
+                      <w:bCs/>
+                      <w:sz w:val="20"/>
+                      <w:szCs w:val="20"/>
+                    </w:rPr>
+                    <w:t>(Сталь 20)</w:t>
+                  </w:r>
+                </w:p>
+              </w:tc>
+              <w:tc>
+                <w:tcPr>
+                  <w:tcW w:w="1135" w:type="dxa"/>
+                  <w:vAlign w:val="center"/>
+                </w:tcPr>
+                <w:p w14:paraId="03FBDD57" w14:textId="1CE60C70" w:rsidR="009A78B5"
+                  w:rsidRPr="00706FE3" w:rsidRDefault="009A78B5" w:rsidP="009A78B5">
+                  <w:pPr>
+                    <w:contextualSpacing/>
+                    <w:jc w:val="center"/>
+                    <w:rPr>
+                      <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"
+                        w:cs="Times New Roman"/>
+                      <w:b/>
+                      <w:bCs/>
+                      <w:sz w:val="20"/>
+                      <w:szCs w:val="20"/>
+                    </w:rPr>
+                  </w:pPr>
+                  <w:r w:rsidRPr="00021A5D">
+                    <w:rPr>
+                      <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"
+                        w:cs="Times New Roman"/>
+                      <w:bCs/>
+                      <w:sz w:val="20"/>
+                      <w:szCs w:val="20"/>
+                    </w:rPr>
+                    <w:t>1287.1-УЗТ</w:t>
+                  </w:r>
+                </w:p>
+              </w:tc>
+              <w:tc>
+                <w:tcPr>
+                  <w:tcW w:w="1280" w:type="dxa"/>
+                  <w:vAlign w:val="center"/>
+                </w:tcPr>
+                <w:p w14:paraId="7066F705" w14:textId="4077F935" w:rsidR="009A78B5"
+                  w:rsidRPr="00706FE3" w:rsidRDefault="009A78B5" w:rsidP="009A78B5">
+                  <w:pPr>
+                    <w:jc w:val="center"/>
+                    <w:rPr>
+                      <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"
+                        w:cs="Times New Roman"/>
+                      <w:b/>
+                      <w:bCs/>
+                      <w:sz w:val="20"/>
+                      <w:szCs w:val="20"/>
+                    </w:rPr>
+                  </w:pPr>
+                  <w:r>
+                    <w:rPr>
+                      <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"
+                        w:cs="Times New Roman"/>
+                      <w:bCs/>
+                      <w:sz w:val="20"/>
+                      <w:szCs w:val="20"/>
+                    </w:rPr>
+                    <w:t>Уха</w:t>
+                  </w:r>
+                </w:p>
+              </w:tc>
+              <w:tc>
+                <w:tcPr>
+                  <w:tcW w:w="1424" w:type="dxa"/>
+                  <w:vAlign w:val="center"/>
+                </w:tcPr>
+                <w:p w14:paraId="391F5F4C" w14:textId="55A03BE5" w:rsidR="009A78B5"
+                  w:rsidRDefault="009A78B5" w:rsidP="009A78B5">
+                  <w:pPr>
+                    <w:jc w:val="center"/>
+                    <w:rPr>
+                      <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"
+                        w:cs="Times New Roman"/>
+                      <w:b/>
+                      <w:bCs/>
+                      <w:sz w:val="20"/>
+                      <w:szCs w:val="20"/>
+                    </w:rPr>
+                  </w:pPr>
+                  <w:r w:rsidRPr="00021A5D">
+                    <w:rPr>
+                      <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"
+                        w:cs="Times New Roman"/>
+                      <w:bCs/>
+                      <w:sz w:val="20"/>
+                      <w:szCs w:val="20"/>
+                    </w:rPr>
+                    <w:t>1,87</w:t>
+                  </w:r>
+                </w:p>
+              </w:tc>
+              <w:tc>
+                <w:tcPr>
+                  <w:tcW w:w="1292" w:type="dxa"/>
+                  <w:vAlign w:val="center"/>
+                </w:tcPr>
+                <w:p w14:paraId="0397B06B" w14:textId="7F26B1A1" w:rsidR="009A78B5"
+                  w:rsidRDefault="009A78B5" w:rsidP="009A78B5">
+                  <w:pPr>
+                    <w:jc w:val="center"/>
+                    <w:rPr>
+                      <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"
+                        w:cs="Times New Roman"/>
+                      <w:b/>
+                      <w:bCs/>
+                      <w:sz w:val="20"/>
+                      <w:szCs w:val="20"/>
+                    </w:rPr>
+                  </w:pPr>
+                  <w:r>
+                    <w:rPr>
+                      <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"
+                        w:cs="Times New Roman"/>
+                      <w:sz w:val="20"/>
+                      <w:szCs w:val="20"/>
+                    </w:rPr>
+                    <w:t>Уха</w:t>
+                  </w:r>
+                </w:p>
+              </w:tc>
+              <w:tc>
+                <w:tcPr>
+                  <w:tcW w:w="1142" w:type="dxa"/>
+                  <w:vAlign w:val="center"/>
+                </w:tcPr>
+                <w:p w14:paraId="6D57A91F" w14:textId="0A796DD8" w:rsidR="009A78B5"
+                  w:rsidRPr="00706FE3" w:rsidRDefault="009A78B5" w:rsidP="009A78B5">
+                  <w:pPr>
+                    <w:contextualSpacing/>
+                    <w:jc w:val="center"/>
+                    <w:rPr>
+                      <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"
+                        w:cs="Times New Roman"/>
+                      <w:b/>
+                      <w:bCs/>
+                      <w:sz w:val="20"/>
+                      <w:szCs w:val="20"/>
+                    </w:rPr>
+                  </w:pPr>
+                  <w:r>
+                    <w:rPr>
+                      <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"
+                        w:cs="Times New Roman"/>
+                      <w:sz w:val="20"/>
+                      <w:szCs w:val="20"/>
+                    </w:rPr>
+                    <w:t>Уха</w:t>
+                  </w:r>
+                </w:p>
+              </w:tc>
+            </w:tr>
